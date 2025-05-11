@@ -182,7 +182,7 @@ p{
 
 .section-1{
     padding-top: 18rem;
-    background-image: url(head.jpg);
+    background-image: url('./head.jpg');
     background-size: cover;
     height: 68.1rem;
 }
